@@ -1,6 +1,6 @@
 # OpenSanctions Batch Search
 
-This script searches multiple names on OpenSanctions and exports results to CSV.
+This OSINT script searches multiple names on OpenSanctions and exports results to CSV.
 
 File: `opensanctions_batch_search.py`
 
